@@ -27,5 +27,6 @@ darbuotojas1 = Darbuotojas("Rokas", "Ranmantas", 4000)
 
 darbuotojas1.pasisveikinti()
 print(darbuotojas1)
+print(darbuotojas1.pavarde)
 
 
