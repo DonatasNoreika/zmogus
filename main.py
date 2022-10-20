@@ -26,5 +26,6 @@ class Darbuotojas(Zmogus):
 darbuotojas1 = Darbuotojas("Rokas", "Ranmantas", 4000)
 
 darbuotojas1.pasisveikinti()
+print(darbuotojas1)
 
 
